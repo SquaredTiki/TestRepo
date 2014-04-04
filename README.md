@@ -7,3 +7,4 @@ For example: editing the README file, try again, look a change! Another one. Hop
 Woah woah woah.
 No way! Surely not?
 Edited Readme. Again. Be aware! That I am editing readmes...
+Perhaps a conflict here?
