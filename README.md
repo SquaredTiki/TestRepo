@@ -1,4 +1,4 @@
-TestRepo Details
+TestRepo
 ========
 
 This repo is to try a few git related things. Going well so far. Slight change. Sure. Now there are two test repos plus some extra text here.
