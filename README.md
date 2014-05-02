@@ -3,7 +3,7 @@ Primary TestRepo
 
 This repo is to try a few git related things, mainly involving libgit2 and objective-git and testing them out to see what they are capable of.
 
-Additional new paragraph here. It's out of the testing zone indeed however testing necessitates this breach in protocol. Further testing can be seen below in the testing zone. A bit more here perhaps?
+Additional new paragraph here. It's out of the testing zone indeed however testing necessitates this breach in protocol. Further testing can be seen below in the testing zone. A bit more here perhaps? Yes.
 
 ##Testing zone:
 
