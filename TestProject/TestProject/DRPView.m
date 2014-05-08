@@ -8,7 +8,7 @@
     if (self) {
         // Initialization code.
 
-        NSString *string = [[[NSString alloc] initWithFormat:@"String ahah!"] autorelease];
+        NSString *string = [[[NSString alloc] initWithFormat:@"String ahah!"] autorelease]; // Got it!
     }
     return self;
 }
