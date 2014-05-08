@@ -20,7 +20,7 @@
 {
     [super viewDidLoad /* comment about this here */]; 
 	// Do any additional setup after loading the view, typicallyff not from a nib.
-    NSLog(@"Interesting thing here");
+    NSLog(@"Interesting thing here"); // Logs a message
 }
 
 - (BOOL)revolutionary {
