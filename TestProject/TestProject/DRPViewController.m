@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 SquaredTiki. All rights reserved.
 //
 
-// Look I've typed something new here, newer, and more, and fghfg
+// Look I've typed something new here, newer, and more, and fghfg, huzzah!
 
 #import "DRPViewController.h"
 
