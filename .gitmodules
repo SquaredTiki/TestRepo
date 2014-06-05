@@ -1,0 +1,3 @@
+[submodule "External/LTHPasscodeViewController"]
+	path = External/LTHPasscodeViewController
+	url = https://github.com/anasb/LTHPasscodeViewController.git
