@@ -12,6 +12,11 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    // Maybe I'll do something here?
+    NSUInteger positiveNumber = 3;
+    
+    NSLog(@"Awesome...");
+	
     // Override point for customization after application launch.
     return YES;
 }
