@@ -12,6 +12,12 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    BOOL doSomething = YES;
+    
+    if (doSomething) {
+     	// Very amazing   
+    }
+    
     // Override point for customization after application launch.
     return YES;
 }
