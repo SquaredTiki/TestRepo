@@ -1,3 +1,6 @@
 [submodule "External/LTHPasscodeViewController"]
 	path = External/LTHPasscodeViewController
 	url = https://github.com/anasb/LTHPasscodeViewController.git
+[submodule "External/QBImagePickerController"]
+	path = External/QBImagePickerController
+	url = https://github.com/questbeat/QBImagePickerController.git
