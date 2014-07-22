@@ -18,9 +18,14 @@
 
 - (void)viewDidLoad
 {
-    [super viewDidLoad /* comment about this here */]; 
-	// Do any additional setup after loading the view, typicallyff not from a nib.
-    NSLog(@"Interesting thing here"); // Logs a message TO THE WORLD!
+    [super viewDidLoad]; 
+	// Do any additional setup after loading the view
+	
+    NSLog(@"Interesting thing here"); // Logs a message to the console!
+    
+    UIView *view = [[UIView alloc] initWithFrame:CGRectMake(10,10,100,100)];
+    view.backgroundColor = [UIColor greenColor];
+    [self.view addSubview:view];
 }
 
 - (BOOL)revolutionary {
