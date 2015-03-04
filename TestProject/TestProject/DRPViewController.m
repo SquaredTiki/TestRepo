@@ -4,7 +4,7 @@
 //
 //  Created by Joshua Garnham on 19/11/2013.
 //  Copyright (c) 2013 SquaredTiki. All rights reserved.
-//
+// (modified on Mac)
 
 // Look I've typed something new here, newer, and more, and fghfg, huzzah!
 
