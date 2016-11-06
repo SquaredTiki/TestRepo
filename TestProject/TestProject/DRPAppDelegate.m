@@ -4,7 +4,7 @@
 //
 //  Created by Joshua Garnham on 19/11/2013.
 //  Copyright (c) 2013 SquaredTiki. All rights reserved. More here.
-// Small change (on iOS)
+// Small change (on iOS) 2016
 
 #import "DRPAppDelegate.h"
 
